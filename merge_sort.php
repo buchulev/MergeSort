@@ -307,7 +307,7 @@ class MergeSort implements SortAlgorithm {
 $car1 = new Car("Audi", "V2", 30, 300, "black", 20000);
 $car2 = new Car("Land Rover", "TD3", 70, 240, "white", 15000);
 $car3 = new Car("Volkswagen", "Sharan", 35, 180, "red", 12000);
-$car4 = new Car("Škoda", "Superb 2.0", 40, 200, "yellow", 18000);
+$car4 = new Car("Skoda", "Superb 2.0", 40, 200, "yellow", 18000);
 $car5 = new Car("Ford", "S-MAX", 45, 170, "white", 14000);
 
 $car_array = array($car1, $car2, $car3, $car4, $car5);
