@@ -44,7 +44,7 @@ class Car implements Comparable {
 	 * function compare
 	 * 
 	 * defoltne porovnava auta podle ceny
-	 * @overrides 
+	 * @overrides Comparable::compareTo
 	 */
 	public function compareTo($c) {
 		if ($c instanceof Car) {
